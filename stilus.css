@@ -10,7 +10,7 @@
 main{
     width: 90%;
     max-width: 900px;
-    color: rgb(rgb(198, 113, 113));
+    color: rgb(198, 113, 113);
     margin: auto;
   }
 
@@ -74,6 +74,8 @@ nav ul { display: grid;
 img{
   border: 1px solid lightblue;
   border-radius: 4px;
+  margin: 2px;
+  
 }
 
 main {
